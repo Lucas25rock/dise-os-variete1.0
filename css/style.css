@@ -326,7 +326,7 @@ footer nav{
         display: flex;
         align-content: center;
         position: fixed;  /* Fija el elemento a la ventana del navegador */
-        top: 600;
+        top: 700;
         bottom: 0;        /* Lo alinea en la parte inferior */
         width: 100%;
         inset-inline: 0;
@@ -339,7 +339,7 @@ footer nav{
         display: flex;
         align-items: center;
         justify-content: space-between;
-        gap: 4rem;
+        gap: 2rem;
     }
     .links-buttons-footer{
         display: flex;
